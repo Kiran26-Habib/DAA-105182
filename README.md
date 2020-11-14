@@ -2,6 +2,6 @@
 ### Project Members ###
 StdID | Name
 ------------ | -------------
-###**63022** | **Kiran Habib**###
+**63022** | **Kiran Habib**
 **62354** | **Sehar Saleem**
 **62621** | **Ali Hunain**
